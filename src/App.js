@@ -1,5 +1,4 @@
 import dbz from './Gogeta-Super-Saiyan-speed.gif'
-import './App.css';
 
 function App() {
   return (
