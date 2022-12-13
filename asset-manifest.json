@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.e6c13ad2.css",
-    "main.js": "/react/static/js/main.4bc0b807.js",
+    "main.css": "/react/static/css/main.283808af.css",
+    "main.js": "/react/static/js/main.3812c8e1.js",
     "static/js/787.b52190a6.chunk.js": "/react/static/js/787.b52190a6.chunk.js",
-    "static/media/Gogeta-Super-Saiyan-speed.gif": "/react/static/media/Gogeta-Super-Saiyan-speed.f5292684e800f4fd1e83.gif",
     "index.html": "/react/index.html",
-    "main.e6c13ad2.css.map": "/react/static/css/main.e6c13ad2.css.map",
-    "main.4bc0b807.js.map": "/react/static/js/main.4bc0b807.js.map",
+    "main.283808af.css.map": "/react/static/css/main.283808af.css.map",
+    "main.3812c8e1.js.map": "/react/static/js/main.3812c8e1.js.map",
     "787.b52190a6.chunk.js.map": "/react/static/js/787.b52190a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.4bc0b807.js"
+    "static/css/main.283808af.css",
+    "static/js/main.3812c8e1.js"
   ]
 }
