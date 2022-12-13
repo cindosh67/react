@@ -1,10 +1,24 @@
-import dbz from './Gogeta-Super-Saiyan-speed.gif'
+import { React } from "react";
+import { Routes, Route } from "react-router-dom";
+// import Header from "./components/Header";
+// import Footer from "./components/Footer";
+// import Home from "./pages/Home";
+// import About from "./pages/About";
+// import Error from "./pages/NotFound";
+// import Lodging from "./pages/Lodging";
 
 function App() {
   return (
     <div className="App">
-      <img src={dbz} alt='super héro' />
-      <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime ducimus deleniti maiores sed error cupiditate harum? Eligendi aperiam repellat numquam perspiciatis libero praesentium eaque veritatis atque ut, reprehenderit aspernatur suscipit ab totam sapiente? Voluptas quaerat in sit quam neque cum velit vitae distinctio, at fugiat, omnis voluptatum reiciendis nisi vero laudantium libero impedit voluptates. Voluptas laudantium harum quos, error necessitatibus vero ipsam placeat aspernatur consequatur dolorum obcaecati sapiente iste repellendus suscipit dolores, amet quae dolorem accusamus quam velit aperiam? Nesciunt ad sunt labore. Fugiat, ipsam!</h1>
+      {/* <Header /> */}
+      <h1>TEST KASA</h1>
+      <Routes>
+        {/* <Route path="/" element={<Home />} />
+        <Route path="/About" element={<About />} />
+        <Route path="/lodging/:id" element={<Lodging />} />
+        <Route path="/*" element={<Error />} /> */}
+      </Routes>
+      {/* <Footer /> */}
     </div>
   );
 }
