@@ -1,23 +1,11 @@
-import logo from './logo.svg';
+import dbz from './Gogeta-Super-Saiyan-speed.gif'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <img src={dbz} alt='super héro' />
+      <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime ducimus deleniti maiores sed error cupiditate harum? Eligendi aperiam repellat numquam perspiciatis libero praesentium eaque veritatis atque ut, reprehenderit aspernatur suscipit ab totam sapiente? Voluptas quaerat in sit quam neque cum velit vitae distinctio, at fugiat, omnis voluptatum reiciendis nisi vero laudantium libero impedit voluptates. Voluptas laudantium harum quos, error necessitatibus vero ipsam placeat aspernatur consequatur dolorum obcaecati sapiente iste repellendus suscipit dolores, amet quae dolorem accusamus quam velit aperiam? Nesciunt ad sunt labore. Fugiat, ipsam!</h1>
     </div>
   );
 }
