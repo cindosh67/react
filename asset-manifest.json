@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.073c9b0a.css",
+    "main.js": "/react/static/js/main.4bc0b807.js",
+    "static/js/787.b52190a6.chunk.js": "/react/static/js/787.b52190a6.chunk.js",
+    "static/media/Gogeta-Super-Saiyan-speed.gif": "/react/static/media/Gogeta-Super-Saiyan-speed.f5292684e800f4fd1e83.gif",
+    "index.html": "/react/index.html",
+    "main.073c9b0a.css.map": "/react/static/css/main.073c9b0a.css.map",
+    "main.4bc0b807.js.map": "/react/static/js/main.4bc0b807.js.map",
+    "787.b52190a6.chunk.js.map": "/react/static/js/787.b52190a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4bc0b807.js"
+  ]
+}
