@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.cf8d4d41.css",
-    "main.js": "/react/static/js/main.0d92263b.js",
+    "main.css": "/react/static/css/main.7e9f13cf.css",
+    "main.js": "/react/static/js/main.a8cf63ce.js",
     "static/js/787.b52190a6.chunk.js": "/react/static/js/787.b52190a6.chunk.js",
+    "static/media/banner_about.jpg": "/react/static/media/banner_about.ec9398b00a3796f8fde8.jpg",
     "static/media/banner.jpg": "/react/static/media/banner.8dbc3e4ffb4f7b0b3bc8.jpg",
     "static/media/LOGO.svg": "/react/static/media/LOGO.ac38b36ec692f2f5731bc84c1ac2030e.svg",
     "static/media/LOGO-FOOTER.svg": "/react/static/media/LOGO-FOOTER.2553fb29683f2c12e44904bd8503bf1b.svg",
     "index.html": "/react/index.html",
-    "main.cf8d4d41.css.map": "/react/static/css/main.cf8d4d41.css.map",
-    "main.0d92263b.js.map": "/react/static/js/main.0d92263b.js.map",
+    "static/media/chevron.svg": "/react/static/media/chevron.6107b35f57ac90ea7fad77c55a76d8a7.svg",
+    "static/media/FlecheDroite.svg": "/react/static/media/FlecheDroite.224e07798ade6bda6e2572adcd9fc9c3.svg",
+    "static/media/star.svg": "/react/static/media/star.5c9d70a17e4fc5f7e97d4862d0f8ffed.svg",
+    "main.7e9f13cf.css.map": "/react/static/css/main.7e9f13cf.css.map",
+    "main.a8cf63ce.js.map": "/react/static/js/main.a8cf63ce.js.map",
     "787.b52190a6.chunk.js.map": "/react/static/js/787.b52190a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf8d4d41.css",
-    "static/js/main.0d92263b.js"
+    "static/css/main.7e9f13cf.css",
+    "static/js/main.a8cf63ce.js"
   ]
 }
